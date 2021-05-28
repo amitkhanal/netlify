@@ -1,0 +1,5 @@
+[[plugins]]
+package = "./plugins/netlify-plugin-cloudinary"
+  [plugins.inputs]
+  type = "fetch"
+  cloudname = "amitkhanal"
